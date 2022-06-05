@@ -15,7 +15,7 @@ def t2(rounded):
         
         g = base64_decode(rounded)
         if str(g).__contains__('execution'): 
-            exec(g)
+            print(g)
             found = True; 
         else: 
             tt+=1
