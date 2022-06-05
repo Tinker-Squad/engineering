@@ -1,0 +1,12 @@
+C:\Users\sk8fl\Documents\GitHub\flowtheengineer\flowtheengineer\VB\VB_Intro\Intro\obj\Debug\Intro.vbproj.AssemblyReference.cache
+C:\Users\sk8fl\Documents\GitHub\flowtheengineer\flowtheengineer\VB\VB_Intro\Intro\obj\Debug\Intro.vbproj.SuggestedBindingRedirects.cache
+C:\Users\sk8fl\Documents\GitHub\flowtheengineer\flowtheengineer\VB\VB_Intro\Intro\obj\Debug\Intro.Resources.resources
+C:\Users\sk8fl\Documents\GitHub\flowtheengineer\flowtheengineer\VB\VB_Intro\Intro\obj\Debug\Intro.vbproj.GenerateResource.cache
+C:\Users\sk8fl\Documents\GitHub\flowtheengineer\flowtheengineer\VB\VB_Intro\Intro\obj\Debug\Intro.vbproj.CoreCompileInputs.cache
+C:\Users\sk8fl\Documents\GitHub\flowtheengineer\flowtheengineer\VB\VB_Intro\Intro\bin\Debug\Intro.exe.config
+C:\Users\sk8fl\Documents\GitHub\flowtheengineer\flowtheengineer\VB\VB_Intro\Intro\bin\Debug\Intro.exe
+C:\Users\sk8fl\Documents\GitHub\flowtheengineer\flowtheengineer\VB\VB_Intro\Intro\bin\Debug\Intro.pdb
+C:\Users\sk8fl\Documents\GitHub\flowtheengineer\flowtheengineer\VB\VB_Intro\Intro\bin\Debug\Intro.xml
+C:\Users\sk8fl\Documents\GitHub\flowtheengineer\flowtheengineer\VB\VB_Intro\Intro\obj\Debug\Intro.exe
+C:\Users\sk8fl\Documents\GitHub\flowtheengineer\flowtheengineer\VB\VB_Intro\Intro\obj\Debug\Intro.xml
+C:\Users\sk8fl\Documents\GitHub\flowtheengineer\flowtheengineer\VB\VB_Intro\Intro\obj\Debug\Intro.pdb
