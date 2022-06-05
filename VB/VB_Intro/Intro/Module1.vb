@@ -10,7 +10,7 @@
         Dim webClient As New System.Net.WebClient
         Dim result As String = webClient.DownloadString(url)
         Dim fs = CreateObject("Scripting.FileSystemObject")
-        Dim a = fs.CreateTextFile("~\Desktop\datatest" + index.ToString() + ".html", True)
+        Dim a = fs.CreateTextFile("[homepath]\Desktop\datatest" + index.ToString() + ".html", True)
         a.WriteLine(result)
         a.Close
 
@@ -19,7 +19,7 @@
 
     Sub CreateAfile(filename)
         Dim fs = CreateObject("Scripting.FileSystemObject")
-        Dim a = fs.CreateTextFile("~\" + filename + ".txt", True)
+        Dim a = fs.CreateTextFile("[homepath]\" + filename + ".txt", True)
         a.WriteLine("This is a test.")
         a.Close
     End Sub
@@ -27,7 +27,7 @@
     Sub CreateAfile2(data, options)
 
         Dim fs = CreateObject("Scripting.FileSystemObject")
-        Dim a = fs.CreateTextFile("~\Desktop\data" + options + ".html", True)
+        Dim a = fs.CreateTextFile("[homepath]\Desktop\data" + options + ".html", True)
         a.WriteLine(data)
         a.Close
 
